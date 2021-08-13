@@ -1,0 +1,32 @@
+1.CHARECTERS
+playing charecter:-player
+non playing charecter:-virus
+
+2.GOAL
+the player should kill the all viruses attaking him at escape to the exit.
+
+3.RULES
+the player has a limited limited of bullets to kill virus 
+is the player killed all the virus and escaped the player wins the game.
+
+4.balancing the rules
+if bullets are completed the player has a chance to get extra bullets for killing the virus.
+the player has to use only limited bullets for one virus to be killed.
+if the bullets are completed and the viruses are still alive, player losts the game.
+
+5.game adaptivity.
+it will become too easy if i gave the palyer many bullets
+is will be much hard if there were no extra bullets.
+
+6.CHANCE vs SKILL
+there will be a chance of getting extra bullets by killing virus.
+you have to show the player skill by aiming correctly to virus and shoot to not waste the bullets.
+you have to show player skill by escaping the viruses when they are attacking you.
+
+7.FEEDBACK
+if the player fire the bullet there will be a gun shot sound
+if the player kill the virus there will be a sound of killing of virus
+if the player get killed by the virus there will be getting a sound of player killed.
+
+8.STORY
+the player had stuck in a house or an building of virus and he shoud escape the building or house by killing the virus.
